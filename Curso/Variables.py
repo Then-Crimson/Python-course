@@ -8,4 +8,5 @@ edad = True
 print(edad)
 
 sueldo = 500.50
-print(sueldo)
+print(sueldo) 
+
