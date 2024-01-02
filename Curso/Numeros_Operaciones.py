@@ -1,4 +1,4 @@
-entero = 23
+entero = 230
 decimal = 31.78
 complejo = 12 + 5j
 #booleano = True
@@ -12,7 +12,7 @@ print(complejo)
 print(booleano)
 """
 
-num1 = 20
+num1 = 200
 num2 = 4
 print("Suma:", (num1 + num2))
 print("Resta:", (num1 - num2))
